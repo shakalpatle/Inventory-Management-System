@@ -1,0 +1,212 @@
+{
+    "1001": {
+        "name": "Choco Cake",
+        "quantity": 34,
+        "price": 100,
+        "expiry": "2-8-2021",
+        "manufacture": "5-5-2021"
+    },
+    "1002": {
+        "name": "Milk Cake",
+        "price": 800,
+        "quantity": 100,
+        "expiry": "2-9-2021",
+        "manufacture": "15-3-2021"
+    },
+    "1003": {
+        "name": "Drink",
+        "price": 85,
+        "quantity": 99,
+        "expiry": "4-11-2021",
+        "manufacture": "23-2-2021"
+    },
+    "1004": {
+        "name": "Candy",
+        "price": 5,
+        "quantity": 1000,
+        "expiry": "13-8-2021",
+        "manufacture": "25-5-2021"
+    },
+    "1005": {
+        "name": "Pen",
+        "price": 20,
+        "quantity": 100,
+        "expiry": "10-11-2021",
+        "manufacture": "N/A"
+    },
+    "1006": {
+        "name": "Phone",
+        "price": 50000,
+        "quantity": 10,
+        "expiry": "22-8-2021",
+        "manufacture": "N/A"
+    },
+    "1007": {
+        "name": "Mic",
+        "price": 1500,
+        "quantity": -3,
+        "expiry": "27-10-2021",
+        "manufacture": "N/A"
+    },
+    "1008": {
+        "name": "Case",
+        "price": 599,
+        "quantity": -1,
+        "expiry": "2-11-2021",
+        "manufacture": "12-3-2021"
+    },
+    "1009": {
+        "name": "Keyboard",
+        "price": 1999,
+        "quantity": 10,
+        "expiry": "23-9-2021",
+        "manufacture": "N/A"
+    },
+    "1010": {
+        "name": "chocochips",
+        "price": 25,
+        "quantity": 0,
+        "manufacture": "23-4-2021",
+        "expiry": "12-8-2021"
+    },
+    "1011": {
+        "name": "Kit Kat",
+        "price": 5,
+        "quantity": 50,
+        "manufacture": "2-5-2021",
+        "expiry": "2-5-2022"
+    },
+    "1012": {
+        "name": "Addidas Socks",
+        "price": 500,
+        "quantity": 20,
+        "manufacture": "12-1-2021",
+        "expiry": "None"
+    },
+    "1013": {
+        "name": "Nike shoes",
+        "price": 2500,
+        "quantity": 20,
+        "manufacture": "5-3-2021",
+        "expiry": "N/A"
+    },
+    "1014": {
+        "name": "Apsara Pencils",
+        "price": 30,
+        "quantity": 25,
+        "manufacture": "15-1-2021",
+        "expiry": "N/A"
+    },
+    "1015": {
+        "name": "Haldiram Milk Bread",
+        "price": 20,
+        "quantity": 47,
+        "manufacture": "4-5-2021",
+        "expiry": "7-5-2021"
+    },
+    "1016": {
+        "name": "Parle Bourbon",
+        "price": 10,
+        "quantity": 96,
+        "manufacture": "2-6-2021",
+        "expiry": "N/A"
+    },
+    "1017": {
+        "name": "Fair and Lovely",
+        "price": 125,
+        "quantity": 24,
+        "manufacture": "3-5-2021",
+        "expiry": "3-5-2022"
+    },
+    "1018": {
+        "name": "Coca Cola",
+        "price": 20,
+        "quantity": 110,
+        "manufacture": "3-5-2021",
+        "expiry": "4-5-2021"
+    },
+    "1019": {
+        "name": "Amul Milk",
+        "price": 20,
+        "quantity": 80,
+        "manufacture": "3-4-2021",
+        "expiry": "9-4-2021"
+    },
+    "1020": {
+        "name": "Classmate Longbook",
+        "price": 80,
+        "quantity": 200,
+        "manufacture": "15-4-2021",
+        "expiry": "N/A"
+    },
+    "1021": {
+        "name": "Trimax pen",
+        "price": 35,
+        "quantity": 200,
+        "manufacture": "23-5-2021",
+        "expiry": "N/A"
+    },
+    "1022": {
+        "name": "Boat Earphones",
+        "price": 2999,
+        "quantity": 10,
+        "manufacture": "25-5-2021",
+        "expiry": "N/A"
+    },
+    "1023": {
+        "name": "Titan Watch",
+        "price": 2500,
+        "quantity": 25,
+        "manufacture": "26-8-2021",
+        "expiry": "N/A"
+    },
+    "1024": {
+        "name": "Woodland Shoes",
+        "price": 2400,
+        "quantity": 5,
+        "manufacture": "19-5-2021",
+        "expiry": "N/A"
+    },
+    "1025": {
+        "name": "Goodnight refil",
+        "price": 35,
+        "quantity": 190,
+        "manufacture": "12-3-2021",
+        "expiry": "23-3-2021"
+    },
+    "1026": {
+        "name": "Skullcandy Earphones",
+        "price": 2500,
+        "quantity": 30,
+        "manufacture": "23-6-2021",
+        "expiry": "N/A"
+    },
+    "1027": {
+        "name": "Samsung mobile",
+        "price": 65000,
+        "quantity": 20,
+        "manufacture": "23-4-2021",
+        "expiry": "N/A"
+    },
+    "1028": {
+        "name": "One8 tshirt",
+        "price": 2000,
+        "quantity": 50,
+        "manufacture": "31-3-2021",
+        "expiry": "N/A"
+    },
+    "1029": {
+        "name": "MI Powerbank",
+        "price": 1999,
+        "quantity": 34,
+        "manufacture": "23-8-2021",
+        "expiry": "N/A"
+    },
+    "1030": {
+        "name": "Godrej Haircolor",
+        "price": 20,
+        "quantity": 30,
+        "manufacture": "17-8-2021",
+        "expiry": "12-12-2021"
+    }
+}
